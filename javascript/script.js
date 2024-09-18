@@ -1,6 +1,7 @@
 const imgBox = document.querySelector(".img-box");
 const imgWrap = document.querySelector(".img-wrap");
 const originalImg = document.querySelector("#original-img");
+const line = document.querySelector("#line");
 
 originalImg.style.width = imgBox.offsetWidth + "px";
 
