@@ -28,6 +28,7 @@ html {
 }
 
 .img-wrap {
+  width: 20px;
   position: absolute;
   left: 0;
   top: 0;
@@ -40,7 +41,7 @@ span {
   cursor: ew-resize;
   background: #fff;
   position: absolute;
-  left: 0;
+  left: 20px;
   top: 0;
 }
 
