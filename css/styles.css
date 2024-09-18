@@ -17,3 +17,9 @@ html {
   align-items: center;
   background: #f3fbff;
 }
+
+.img-box {
+  width: 60%;
+  margin: auto;
+  line-height: 0;
+}
